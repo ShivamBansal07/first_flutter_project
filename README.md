@@ -1,16 +1,7 @@
-# first_project
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Description
+# `Main Objective`
+* [x] Flutter app to display number from 1 to 10 in a listview.
+* [x] Floating action button, which when pressed changes the range from 1-random number(max 100).
+# `Bonus Tasks`
+* [x] Upon clicking on ary elements of the list, color of list tile change to red if number is greater than 50 and green otherwise.
+* [x] Keep all the code organized in a proper, file structure. Break widgets into smaller widgets whenever possible.
